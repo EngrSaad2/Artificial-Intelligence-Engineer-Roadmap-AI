@@ -1,14 +1,23 @@
 # Artificial Intelligence Engineer Roadmap
 
+<b>SAAD</b> <br>
+Email: saad@triangeltech.com<br>
+LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
+Facebook: https://www.facebook.com/raselhasandurjoy<br>
+Company WEB: https://triangeltech.com/ <br>
+Phone: +8801904654712<br>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Artificial-Intelligence-Engineer-Roadmap-AI)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+
 ## Overview
 This is resources for going from software engineer/non-software engineer to profressional in AI engineer.
 
 ## About Me
-I'm a Thai Software Engineer who is really passionate to become entrepreneur, investor, and AI engineer. Was found Humaan.ai to bringing the AI to everyone to do incredible ways. 
+I'm a Software Engineer who is really passionate to become entrepreneur, investor, and AI engineer. Was found Humaan.ai to bringing the AI to everyone to do incredible ways. Currently, I'm working as a senior software engineer in HBCL.
 
-Currently, I'm studying for a master's degree in Business Analytics and Data Sciences, where majoring in Artificial Intelligence and Machine Learning  at [National Institute of Development Administration (NIDA)](http://www.nida.ac.th/en/), Thailand. 
-
-Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitter](https://twitter.com/athivvat) · [Facebook](https://www.facebook.com/athivvat) · [GitHub](https://github.com/athivvat)
 
 ## Table of Contents
 - [What Exactly Does an AI Engineer Do](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/01-What%20Exactly%20Does%20an%20AI%20Engineer%20Do.md)
@@ -68,7 +77,6 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
 # Contributing
 See [CONTRIBUTING.](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/CONTRIBUTING.md)
 
-# Working at Humaan.ai
+# Working at Triangle Technologies Ltd
 Our mission is to "solve intelligence" and enable AI technologies to unleash everyone capabilites and to address humanity's grand challenges.
 
-[[Jobs at Humaan.ai]](https://humaan.ai/jobs)
